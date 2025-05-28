@@ -36,7 +36,7 @@ pip install pymongo faker tabulate
 
 ## How to Run
 
-1. Make sure a local MongoDB instance is running.
+1. Make sure a local MongoDB instance is running, and ensure that the MongoDB client is properly instantiated in all three models.
 2. Install the necessary Python packages in your environment.
 3. Begin the project by executing the model_selection.py script from a command prompt.
 4. When prompted, choose one of the three data-modeling options and present the requested numbers for employees and companies.
