@@ -4,6 +4,10 @@
 ## Alejandro Delgado and Maria Aleman
 
 ---
+## Project Overview
+This project explores three distinct document modeling strategies using MongoDB, focusing on how different approaches to structuring data affect performance. The scenario mimics a simplified HR-like database with two key entities: Persons (e.g., employees) and Companies (e.g., employers).
+
+Using synthetic data generated with Python, we model the same dataset in three ways—ranging from normalized to fully denormalized designs. We then insert each model into MongoDB and benchmark their performance on a set of representative queries. This hands-on test helps assess trade-offs between normalization and denormalization in NoSQL databases, particularly regarding query performance and update efficiency.
 
 ## Description of Model Scripts
 
