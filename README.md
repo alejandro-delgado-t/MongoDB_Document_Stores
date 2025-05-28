@@ -1,4 +1,4 @@
-# Lab 2: Document Stores
+# Document Stores
 
 ## Big Data Management for Data Science 
 ## Alejandro Delgado and Maria Aleman
